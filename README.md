@@ -16,4 +16,14 @@ This repository contains my Python learning journey 🚀
 ## Programs 
 - program to understand input statements
 - program to understand formated string concatination
+
+## Completed (Day_3)
+- Practice set 3 ✅
+
+## Programs
+- program to understand strings
+- program for string concatenation
+- program for string methods
+- program to count the character
+- program to reverse string
    
