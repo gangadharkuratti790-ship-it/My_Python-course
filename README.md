@@ -34,5 +34,11 @@ This repository contains my Python learning journey 🚀
 - program to understand the concept of arithmetic comparison and logical operators
 - program to understand 'and' and comparison operators
 
+## Completed (Day_5)
+- Practice set 5 ✅
+
+## Programs
+- program to understand the list operation and methods
+
   
    
