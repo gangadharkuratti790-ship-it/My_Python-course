@@ -40,5 +40,12 @@ This repository contains my Python learning journey 🚀
 ## Programs
 - program to understand the list operation and methods
 
+## Completed (Day_6)
+- Prctice set 6 ✅
+
+## Programs
+- program to understand the concept of list and list operations ,input/output statements
+- largest of three without using max()
+
   
    
