@@ -47,5 +47,13 @@ This repository contains my Python learning journey 🚀
 - program to understand the concept of list and list operations ,input/output statements
 - largest of three without using max()
 
+## Completed (Day_7)
+- Pracice set 7 ✅
+
+## Programs
+- program to understand operations on set
+- program to understand set properties
+- program to understand tuple operations
+
   
    
